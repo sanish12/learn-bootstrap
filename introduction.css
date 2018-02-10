@@ -1,0 +1,20 @@
+.show-box{
+    border: 1px solid orange;
+}
+.row{
+        margin-left: 0;
+        margin-right: 0;
+}
+.transition{
+    background: url(transition-bkg.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 10% 180%;
+    height: 300px;
+    width: 100%;
+}
+
+.transition-header{
+    display: block;
+    margin-top: 150px;
+}
